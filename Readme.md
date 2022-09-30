@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Georgii KARAPETOV](https://up.htmlacademy.ru/javascript/27/user/1982775).
-* Наставник: `Неизвестно`.
+* Наставник: [Dmitrii Guliaev](https://htmlacademy.ru/profile/dima)..
 
 ---
 
